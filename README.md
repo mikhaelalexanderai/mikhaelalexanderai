@@ -73,9 +73,9 @@ I'm a passionate and detail-oriented **Web Developer** with a focus on building 
 
 I'm always open to discussing tech, collaboration opportunities, or just chatting about web development.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mikhael-alexander-andy-irawan-bb5144351/)
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andyirawanmikhaelalexander@gmail.com)  
 
 
 ---
